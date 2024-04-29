@@ -1,11 +1,12 @@
 
-# BusyBuy-1 - 🛒 🛍️ 💻
+# BusyBuy-2 - 🛒 🛍️ 💻
 ## ⭐ Introduction 
 
-This is BusyBuy-1 web app which is build using ReactJS🚀
+This is BusyBuy-2 web app which is build using ReactJS🚀
 
 Deployed using Render -: https://main--busybuy-1.netlify.app/
 
+It is built using React + Redux.
 
 
 
