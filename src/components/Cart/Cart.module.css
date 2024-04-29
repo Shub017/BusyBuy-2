@@ -1,0 +1,92 @@
+.TotalCart{
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(64,77,148,.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+    transition: all .25s ease-in-out;
+    
+}
+
+.filterSidebar{
+    background: #f0f0fc;
+    border-radius: 10px;
+    left: 0;
+    
+    position: fixed;
+    text-align: center;
+    top: 30%;
+    width: 14rem;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.CartPurchaseButton{
+    background: #7064e5;
+    border: 1px solid #7064e5;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 20px;
+    margin: auto;
+    transition: all .3s ease-in-out;
+}
+
+
+
+.gridDisplay{
+    grid-gap: 2rem;
+display: grid;
+gap: 2rem;
+grid-template-columns: repeat(3, 1fr);
+grid-auto-flow: row; /* This will make the grid expand downwards */
+margin: 3rem 15rem;
+    
+}
+
+.ProductDetails{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.ProductName{
+    color: #224957;
+    font-family: Inter, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+    padding: 8px 0;
+}
+
+.productOptions{
+    align-items: center;
+    display: flex;
+    font-size: 24px;
+    justify-content: space-between;
+    padding: 8px 0;
+    width: 100%;
+}
+
+.productQuantityContainer{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    cursor: pointer;
+}
+
+.removeFromCartButton{
+    background: #f14444;
+    border: 1px solid red;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.notLoggedIn{
+    margin: auto;
+    padding-left: 20vw;
+}

@@ -1,0 +1,31 @@
+.Heading{
+    padding-left: 40%;
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(75, 55, 32);
+}
+
+.billReceipt{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.orderTable{
+    border: none;
+    margin: 0 auto 4rem;
+    position: relative;
+    width: 50%;
+    background-color: bisque;
+    border-spacing: 10px 20px;
+    border-collapse: separate;
+    font-style: italic;
+}
+
+.loadingSpinner{
+    margin-left: 40%;
+}
+
+.notLoggedIn{
+    margin: auto;
+    padding-left: 20vw;
+}
