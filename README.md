@@ -4,7 +4,7 @@
 
 This is BusyBuy-2 web app which is build using ReactJS🚀
 
-Deployed using Render -: https://main--busybuy-1.netlify.app/
+Deployed using Render -: https://main--busy-buy-2.netlify.app
 
 It is built using React + Redux.
 
