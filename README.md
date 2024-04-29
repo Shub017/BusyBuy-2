@@ -29,7 +29,7 @@ Orders-:
 ## Features
 
 - Introduction to the E-commerce Website:
-E-commerce website, built using ReactJS, offers users a modern and intuitive platform for online shopping. With a focus on user experience and functionality, this website aims to provide customers with a seamless shopping experience from start to finish. 
+E-commerce website, built using ReactJS and Redux, offers users a modern and intuitive platform for online shopping. With a focus on user experience and functionality, this website aims to provide customers with a seamless shopping experience from start to finish. 
 
 - User Experience and Navigation:
 Upon landing on the homepage, users are greeted with a visually appealing interface designed to captivate their attention and encourage exploration. Leveraging the power of React Router DOM, navigation between pages is smooth and instantaneous, ensuring that users can effortlessly browse through various sections of the website.
